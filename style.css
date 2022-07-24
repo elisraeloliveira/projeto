@@ -28,7 +28,7 @@ nav{
     justify-content: space-around;   
     display: flex;
     flex-wrap:nowrap;
-    transform: perspective(.);
+    ;
 
 }
 
@@ -39,7 +39,7 @@ a{
 }
 
 main{
-    
+    text-decoration: solid black;
     border-radius: 10px;
     text-align: justify;
     background-image: url(imagem-abstrato.png);
@@ -52,6 +52,8 @@ main{
 
 }
 p{
+    
+    font-size: 15px;
     padding: 5px;
     margin: 10px;
 }
