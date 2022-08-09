@@ -14,3 +14,7 @@ input + p{
     width: 100px;
     text-align: center;
 }
+.cor{
+    background-color: black;
+    color: white;
+}
